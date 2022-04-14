@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Apple Inc. Common Stock",
+        "ticker": "AAPL",
+        "price": 178.58884743831754,
+        "dcf": 212.08357234131626,
+        "date": "2022-04-13"
+    },
+    {
+        "name": "Apple Inc. Common Stock",
+        "ticker": "AAPL",
+        "price": 113.87255955145508,
+        "dcf": 182.628214162171,
+        "date": "2022-04-12"
+    }
+]
