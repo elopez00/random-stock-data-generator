@@ -64,7 +64,7 @@ def read_stock_data_from_csv():
 
 
 if __name__ == '__main__':
-    with open("stock_data.json", "w") as f:
+    with open("output/stock_data.json", "w") as f:
         read_stock_data_from_csv()
 
         company_set = {}
